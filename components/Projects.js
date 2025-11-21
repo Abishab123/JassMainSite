@@ -1,20 +1,20 @@
 function Projects() {
   try {
     const projects = [
-     {
- 
-      title: "CCC Website",
-  description: "Website to learn and practice CCC questions.",
-  tags: ["Community", "Collaboration"],
-  image: "ccc.png",
-  link: "https://codingcollectivewaterloo.netlify.app/"
-},
+      {
+        title: "CCC Website",
+        description: "Website to learn and practice CCC questions.",
+        tags: ["Community", "Collaboration"],
+        image: "ccc.png",
+        link: "https://codingcollectivewaterloo.netlify.app/"
+      },
 
-      
       {
         title: "Arcade",
         description: "",
-        tags: ["JavaScript", "Canvas", "Games"]
+        image: "gamehub.png",
+        tags: ["JavaScript", "Canvas", "Games"],
+        link: "https://jassgamehub.netlify.app/"
       },
       
       {
