@@ -20,7 +20,7 @@ function Footer() {
           </div>
           
           <div className="text-center text-[var(--text-gray)] text-sm">
-            <p>&copy; 2025 Coding Collective. All rights reserved.</p>
+          
           </div>
         </div>
       </footer>
